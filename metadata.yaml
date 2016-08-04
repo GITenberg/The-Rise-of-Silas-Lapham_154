@@ -1,0 +1,48 @@
+_repo: The-Rise-of-Silas-Lapham_154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "The Rise of Silas Lapham is a realist novel by William Dean Howells\
+  \ published in 1885. The story follows the materialistic rise of Silas Lapham from\
+  \ rags to riches, and his ensuing moral susceptibility. Silas earns a fortune in\
+  \ the paint business, but he lacks social standards, which he tries to attain through\
+  \ his daughter's marriage into the aristocratic Corey family. Silas' morality does\
+  \ not fail him. He loses his money but makes the right moral decision when his partner\
+  \ proposes the unethical selling of the mills to English settlers.\nHowells is known\
+  \ to be the father of American realism, and a denouncer of the sentimental novel.\
+  \ The resolution of the love triangle of Irene Lapham, Tom Corey, and Penelope Lapham\
+  \ highlights Howells' rejection of the conventions of sentimental romantic novels\
+  \ as unrealistic and deceitful.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1994-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '154'
+  wikidata: Q7760892
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businessmen -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Socialites -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Boston (Mass.) -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Rise of Silas Lapham
+url: http://www.gutenberg.org/ebooks/154
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Rise_of_Silas_Lapham
+- https://la.wikipedia.org/wiki/The_Rise_of_Silas_Lapham
