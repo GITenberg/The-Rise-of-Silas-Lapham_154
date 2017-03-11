@@ -1,5 +1,8 @@
 _repo: The-Rise-of-Silas-Lapham_154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -22,6 +25,8 @@ description: "The Rise of Silas Lapham is a realist novel by William Dean Howell
   \ The resolution of the love triangle of Irene Lapham, Tom Corey, and Penelope Lapham\
   \ highlights Howells' rejection of the conventions of sentimental romantic novels\
   \ as unrealistic and deceitful.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/154#The-Rise-of-Silas-Lapham
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '1994-08-01'
 gutenberg_type: Text
